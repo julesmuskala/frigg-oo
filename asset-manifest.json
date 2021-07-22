@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/frigg-oo/static/css/main.ca1b8aac.chunk.css",
+    "main.js": "/frigg-oo/static/js/main.15b85004.chunk.js",
+    "main.js.map": "/frigg-oo/static/js/main.15b85004.chunk.js.map",
+    "runtime-main.js": "/frigg-oo/static/js/runtime-main.c739c0c6.js",
+    "runtime-main.js.map": "/frigg-oo/static/js/runtime-main.c739c0c6.js.map",
+    "static/css/2.bc922b9c.chunk.css": "/frigg-oo/static/css/2.bc922b9c.chunk.css",
+    "static/js/2.820f93a6.chunk.js": "/frigg-oo/static/js/2.820f93a6.chunk.js",
+    "static/js/2.820f93a6.chunk.js.map": "/frigg-oo/static/js/2.820f93a6.chunk.js.map",
+    "index.html": "/frigg-oo/index.html",
+    "static/css/2.bc922b9c.chunk.css.map": "/frigg-oo/static/css/2.bc922b9c.chunk.css.map",
+    "static/css/main.ca1b8aac.chunk.css.map": "/frigg-oo/static/css/main.ca1b8aac.chunk.css.map",
+    "static/js/2.820f93a6.chunk.js.LICENSE.txt": "/frigg-oo/static/js/2.820f93a6.chunk.js.LICENSE.txt",
+    "static/media/add-ico.aea357f2.svg": "/frigg-oo/static/media/add-ico.aea357f2.svg",
+    "static/media/alc-ico.d22a1d76.svg": "/frigg-oo/static/media/alc-ico.d22a1d76.svg",
+    "static/media/all-ico.77438ba2.svg": "/frigg-oo/static/media/all-ico.77438ba2.svg",
+    "static/media/back-ico.155bddcf.svg": "/frigg-oo/static/media/back-ico.155bddcf.svg",
+    "static/media/bak-ico.b7f29a81.svg": "/frigg-oo/static/media/bak-ico.b7f29a81.svg",
+    "static/media/bev-ico.f1c2894e.svg": "/frigg-oo/static/media/bev-ico.f1c2894e.svg",
+    "static/media/can-ico.a288eef6.svg": "/frigg-oo/static/media/can-ico.a288eef6.svg",
+    "static/media/dai-ico.69181878.svg": "/frigg-oo/static/media/dai-ico.69181878.svg",
+    "static/media/dry-ico.f6436e7e.svg": "/frigg-oo/static/media/dry-ico.f6436e7e.svg",
+    "static/media/edit-ico.cdf693be.svg": "/frigg-oo/static/media/edit-ico.cdf693be.svg",
+    "static/media/logo-ico.ff1c904b.svg": "/frigg-oo/static/media/logo-ico.ff1c904b.svg",
+    "static/media/menu-ico.2ccf39fb.svg": "/frigg-oo/static/media/menu-ico.2ccf39fb.svg",
+    "static/media/mis-ico.de50d185.svg": "/frigg-oo/static/media/mis-ico.de50d185.svg",
+    "static/media/prod-ico.f39ab04c.svg": "/frigg-oo/static/media/prod-ico.f39ab04c.svg",
+    "static/media/prot-ico.bfa41d5b.svg": "/frigg-oo/static/media/prot-ico.bfa41d5b.svg",
+    "static/media/rea-ico.f94813e2.svg": "/frigg-oo/static/media/rea-ico.f94813e2.svg",
+    "static/media/sbt-ico.d4b5d101.svg": "/frigg-oo/static/media/sbt-ico.d4b5d101.svg",
+    "static/media/sna-ico.da9a674b.svg": "/frigg-oo/static/media/sna-ico.da9a674b.svg",
+    "static/media/sup-ico.dc1a8276.svg": "/frigg-oo/static/media/sup-ico.dc1a8276.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c739c0c6.js",
+    "static/css/2.bc922b9c.chunk.css",
+    "static/js/2.820f93a6.chunk.js",
+    "static/css/main.ca1b8aac.chunk.css",
+    "static/js/main.15b85004.chunk.js"
+  ]
+}
