@@ -1,0 +1,51 @@
+html {
+  font-family: sans-serif;
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  user-select: none;
+}
+
+button {
+  color: inherit;
+  cursor: pointer;
+  background: none;
+  border: none;
+  border-radius: 0;
+}
+
+button:active, button:focus {
+  outline: none;
+  border: none;
+}
+
+a, button {
+  touch-action: manipulation;
+}
+
+svg {
+  pointer-events: none;
+}
+
+a, a:hover, a:visited, a:link, a:active {
+  text-decoration: none;
+}
