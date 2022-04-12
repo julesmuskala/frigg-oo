@@ -1,5 +1,5 @@
-# Frigg.io
+# frigg-oo
 
 App created to track your food items
 
-[Check it out!](https://www.juliusz.muskala.eu/frigg-oo/)
+[Check it out!](https://julesmuskala.github.io/frigg-oo/)
